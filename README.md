@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="Main@1x.png" alt="Isaac Nava - Software Developer" width="100%" />
-### Software Engineering Graduate · Full-Stack in progress · Guanajuato, México 🇲🇽
 
 </div>
 
