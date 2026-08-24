@@ -68,9 +68,9 @@ Stock tracking system built for a real shop with minimum-stock alerts.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AIsaac2807&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIsaac28&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIsaac2078&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 ---
